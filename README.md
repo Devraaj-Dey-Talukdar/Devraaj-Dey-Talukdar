@@ -16,7 +16,10 @@
   <li><h2>Java</h2></li>
   </ul>
   <ul>
-  <li><h2>Solidity</h2></li>
+  <li><h2>C# <p>{Game-Development}</p></h2></li>
+  </ul>
+   <ul>
+  <li><h2>C++ <p>{Game-Development}</p></h2></li>
   </ul>
   
   <h3>I chose to do DSA with Java-Script as my primary langyage.</h3>
