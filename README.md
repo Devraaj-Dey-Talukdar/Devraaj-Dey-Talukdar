@@ -20,7 +20,7 @@
   </ul>
    
   
-  <h3>I chose to do DSA with Java as my primary langyage.</h3>
+  <h3>I am actively learning new skills like ML Models, Ethcial Hacking ( Nmap, WireShark,Bug Bounty etc..) </h3>
   
   <p>I am also intrested in DevOps , Penetration Testing , Artificial Intelligence and Machine Learning [tensorflow.js]</p>
   
