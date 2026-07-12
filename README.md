@@ -15,11 +15,9 @@
   <ul>
   <li><h2>C# <p>{Game-Development}</p></h2></li>
   </ul>
-   <ul>
-  <li><h2>C++ <p>{Game-Development}</p></h2></li>
-  </ul>
+   
   
-  <h3>I chose to do DSA with Java-Script as my primary langyage.</h3>
+  <h3>I chose to do DSA with Java as my primary langyage.</h3>
   
   <p>I am also intrested in DevOps , Penetration Testing , Artificial Intelligence and Machine Learning [tensorflow.js]</p>
   
