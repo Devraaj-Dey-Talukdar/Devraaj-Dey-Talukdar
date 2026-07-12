@@ -12,9 +12,9 @@
   <ul>
   <li><h2>Java</h2></li>
   </ul>
-  <ul>
+
   <li><h2>Python</h2></li>
-  </ul>
+ 
   <ul>
   <li><h2>C# <p>{Game-Development}</p></h2></li>
   </ul>
