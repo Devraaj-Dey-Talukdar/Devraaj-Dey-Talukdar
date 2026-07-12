@@ -7,10 +7,7 @@
   <li><h2>Java-Script</h2></li>
   </ul>
   <ul>
-  <li><h2>Swift <p>{Swift-UI}</p></h2></li>
-  </ul>
-  <ul>
-  <li><h2>Dart <p>{Flutter}</p></h2></li>
+  
   </ul>
   <ul>
   <li><h2>Java</h2></li>
